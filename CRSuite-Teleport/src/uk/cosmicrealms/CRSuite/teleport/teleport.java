@@ -1,4 +1,4 @@
-package uk.cosmicrealms.CRSuite;
+package uk.cosmicrealms.CRSuite.teleport;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.Plugin;

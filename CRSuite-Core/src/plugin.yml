@@ -1,0 +1,4 @@
+name: CRSuite-Core
+author: ThomasRed20
+version: 0.1
+main: uk.cosmicrealms.CRSuite.core.CRSuite

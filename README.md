@@ -1,2 +1,2 @@
-# CRSuite-Core
-The Core Interaction Plugin for CosmicRealmsSuite-Core
+# CRSuite
+The CRSuite of Plugins

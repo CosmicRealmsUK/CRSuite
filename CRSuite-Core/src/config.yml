@@ -1,0 +1,8 @@
+server:
+ name: Default
+database:
+ url: localhost
+ username: root
+ password: password
+ port: 3301
+ database: CRSuite
